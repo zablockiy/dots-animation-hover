@@ -14,10 +14,11 @@ body {
 }
 
 .strong {
-    font-size: 60px;
-    color: thistle;
-
-  text-align: center;
+  font-size: 100px;
+  color: thistle;
+ position: absolute;
+ 
+  
 }
 
 .loader {
